@@ -6,7 +6,7 @@ const Product = ({ product }) => {
   // console.log(product);
 
   return (
-    <Link>
+    <Link to={`/product/${product.id}`}>
       <div className='grad w-full h-[362px] rounded-[8px] overflow-hidden relative group'>
         {/*badge*/}
         {product.attributes.isNew ? (
@@ -24,7 +24,7 @@ const Product = ({ product }) => {
           {/*category title*/}
           <div className='text-sm text-accent capitalize mb-2'>{product.attributes.categories.data[0].attributes.title}</div>
           {/* title*/}
-          <div className='text=[15px] mb-4 lg:mb-9'>{product.attributes.title.substring(0, 35)}...</div>
+          <div className='text-[15px] mb-4 lg:mb-9'>{product.attributes.title.substring(0, 35)}...</div>
           {/*price */}
           <div className='text-lg text-accent'>${product.attributes.price}</div>
         </div>
