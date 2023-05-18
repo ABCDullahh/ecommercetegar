@@ -26,14 +26,12 @@ const Hero = () => {
               {/* text  */}
               <div className='flex flex-col max-w-[144px] h-full justify-center'>
                 <div className='text-[20px] uppercase font-medium leading-tight mb-4 '>
-                  Hemat 35% untuk semua Handphone iPhone
+                  Hemat 15% untuk semua Handphone Samsung
                 </div>
-                <a href='#' className='uppercase text-accent'> 
-                Beli Sekarang 
-                </a>
+                
               </div>
               {/* img */}
-              <img className='absolute z-20 -top-2 -right-4' 
+              <img className='absolute z-20 -bottom-2 -right-4' 
               src={PromoImg1} 
               alt=''/>
               </div>
@@ -42,14 +40,12 @@ const Hero = () => {
               {/* text  */}
               <div className='flex flex-col max-w-[144px] h-full justify-center'>
                 <div className='text-[20px] uppercase font-medium leading-tight mb-4 '>
-                  Hemat 25% untuk semua Handphone SAMSUNG
+                  Hemat 10% untuk semua Handphone IPHONE
                 </div>
-                <a href='#' className='uppercase text-accent'> 
-                Beli Sekarang 
-                </a>
+                
               </div>
               {/* img */}
-              <img className='absolute z-20 -top-2 -right-4' 
+              <img className='absolute z-20 -bottom-2 -right-4' 
               src={PromoImg2} 
               alt=''/>
               </div>

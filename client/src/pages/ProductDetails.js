@@ -27,7 +27,7 @@ const ProductDetails = () => {
           <div className='flex-1 bg-primary p-12 x1:p-20 rounded-lg flex flex-col justify-center'>
             {/*  category title */}
             <div className='uppercas text-accent text-lg font-medium mb-2'>
-              {data[0].attributes.categories.data[0].attributes.title} cameras
+              {data[0].attributes.categories.data[0].attributes.title} 
             </div>
             {/* title */}
             <h2 className='h2 mb-4 '>
@@ -42,7 +42,9 @@ const ProductDetails = () => {
             <div className='text-3xl text-accent fonts-semibold'>
               Rp.{data[0].attributes.price}
             </div>
+            <a href="https://wa.me/6281329929950">
             <button className='btn btn-accent'>Tanyakan Stok</button>
+            </a>
             </div>
           </div>
         </div>

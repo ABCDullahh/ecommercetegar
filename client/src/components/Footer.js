@@ -1,20 +1,14 @@
 import React from 'react';
-import {FaYoutube, FaInstagram, FaTwitter, FaFacebook} from 'react-icons/fa'
+import { FaInstagram, FaFacebook} from 'react-icons/fa'
 
 const Footer = () => {
   return (
     <footer className="pt-16 bg-primary ">
       <div className="container mx-auto">
         <div className='text-center'>
-          <h2 className='h2 uppercase mb-6 font-semibold'>Botak Kontol Kerja Bagus Hati-Hati</h2>
+          <h2 className='h2 uppercase mb-6 font-semibold'>TEGAR PONSEL</h2>
           <p className='text-white/70'>
-            Who is Nijika? For the blind, she is vision. For the hungry, she is
-            the chef. For the thirsty, she is water. If Nijika thinks, I agree.
-            If Nijika speaks, I'm listening. If Nijika has a million fans, I am
-            one of them. If Nijika has ten fans, I am one of them. If Nijika has
-            only one fan, that is me. If Nijika has no fans, I no longer exist.
-            If the whole world is against Nijika, I am against the whole world.
-            I will love Nijika until my very last breath.
+          Berbelanja handphone secara online di toko kami adalah pengalaman yang nyaman, aman, dan menyenangkan. Kami menyediakan produk handphone terbaik dengan harga yang terjangkau dan berkomitmen untuk memberikan layanan terbaik serta kualitas produk yang terbaik. Kami juga siap membantu Anda dalam mencari produk handphone yang sesuai dengan kebutuhan Anda dan memberikan pelayanan yang cepat dan efisien dalam memproses pesanan Anda. Terima kasih atas kepercayaan Anda untuk berbelanja di toko handphone kami, kami berharap dapat terus memberikan pelayanan terbaik untuk Anda.
           </p>
         </div>
         {/* form */}
@@ -24,28 +18,17 @@ const Footer = () => {
           </form>
           {/* link */}
           <div className='text-base text-white/60 flex gap-x-6 capitalize max-w-max mx-auto mb-9'>
-            <a href="#" className="hover:text-white transition-all">
-              Ketentuan Garansi
-            </a>
-            <a href="#" className="hover:text-white transition-all">
-              Pengiriman
-            </a>
-            <a href="#" className="hover:text-white transition-all">
+            
+            <a href="https://www.google.com/maps?q=tegar+ponsel+tegal&rlz=1C1ONGR_enID1034ID1034&um=1&ie=UTF-8&sa=X&ved=2ahUKEwiPy9CllPr-AhXN8zgGHbScBqgQ_AUoAXoECAEQAw" className="hover:text-white transition-all">
               Cabang Terdekat
             </a>
           </div>
           {/* socials */}
           <div className='flex gap-x-6 max-w-max mx-auto text-lg mb-16'>
-            <a href="#" className="hover:text-white transition-all">
-              <FaYoutube />
-            </a>
-            <a href="#" className="hover:text-white transition-all">
+            <a href="https://www.instagram.com/tegarponseltegal/" className="hover:text-white transition-all">
               <FaInstagram />
             </a>
-            <a href="#" className="hover:text-white transition-all">
-              <FaTwitter />
-            </a>
-            <a href="#" className="hover:text-white transition-all">
+            <a href="https://www.facebook.com/Tegarponseltegalofficial/" className="hover:text-white transition-all">
               <FaFacebook />
             </a>
           </div>

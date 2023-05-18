@@ -43,7 +43,7 @@ const SearchForm = () => {
       onChange={handleSearchInput}
       className='input' 
       type='text' 
-      placeholder='HP baru kh maniez...'/>
+      placeholder='Cari Produk...'/>
       <button className='btn btn-accent absolute top-0 right-0 rounded-tl-none rounded-bl-none'>
         <FiSearch className='text-xl'/>
       </button>

@@ -2,7 +2,6 @@ import React, { useContext } from 'react';
 
 import logo from '../img/logo.png';
 
-import {SlBag} from 'react-icons/sl';
 import {FiMenu} from 'react-icons/fi';
 import { useState } from 'react';
 
@@ -10,9 +9,6 @@ import {Link} from 'react-router-dom';
 
 import SearchFrom from '../components/SearchForm';
 import CategoryNavMobile from '../components/CategoryNavMobile';
-import Cart from '../components/Cart';
-
-import { CartContext } from '../context/CartContext';
 
 const Header = () => {
   // const { isOpen, setIsOpen } = useContext(CartContext);
@@ -45,20 +41,11 @@ const Header = () => {
           <div className='flex item-center gap-x-[10px]'>
             {/* phone */}
             <div className='hidden xl:flex uppercase'>
-              Butuh Bantuan kh maniez? nyihahahaa
+            <a href='https://wa.me/6281329929950' className='uppercase text-accent'> 
+                Butuh Bantuan ? 
+                </a> 
             </div>
-            {/* cart icon*/}
-            <div 
-            // onClick={() => setIsOpen(!isOpen)} 
-            className='relative cursor-pointer'>
-              <SlBag className='text-2xl'/>
-              {/* amount */}
-              <div className='bg-accent text-primary absolute w-[18px] h-[18px] rounded-full top-3 -right-1 text-[13px] flex justify-center item-center fond-bold tracking-[-0.1em]
-              '>
-                2
-                </div>
-            </div>
-            {/* cart */}
+            
           </div>
         </div>
         {/* searchform - show on mobile only */}

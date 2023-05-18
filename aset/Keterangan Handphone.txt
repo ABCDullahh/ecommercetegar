@@ -1,0 +1,188 @@
+Keterangan Handphone
+
+SAMSUNG
+1. Galaxy S23 Ultra 5G
+Price : 21999000
+Ukuran layar : 6.8"
+RAM : 12 GB
+Penyimpanan : 512 GB
+Chip : Snapdragon 8 gen 2
+Main Camera : 200MP
+Baterai : 5000mAh
+
+2. Galaxy A54 5G
+Price : 5999000
+Ukuran Layar : 6.4"
+RAM : 6 GB
+Penyimpanan : 128 GB
+Chip : Exynos 1380
+Main Camera : 50MP
+Baterai : 5000mAh
+
+3. Galaxy Z Fold 4 5G
+Price : 24999000
+Ukuran Layar : 7.6"
+RAM : 12 GB
+Penyimpanan : 256 GB
+Chip : Snapdragon 8 gen 1
+Main Camera : 50MP
+Baterai : 4400mAh
+
+4. Galaxy Z Flip 4 5G
+Price : 13999000
+Ukuran Layar : 6.7"
+RAM : 8 GB
+Penyimpanan : 128 GB
+Chip : Snapdragon 8 gen 1
+Main Camera : 50MP
+Baterai : 3700mAh
+
+5. Galaxy S23 5G
+Price : 12999000
+Ukuran Layar : 6.1"
+RAM : 8 GB
+Penyimpanan : 128 GB
+Chip : Snapdragon 8 gen 1
+Main Camera : 50MP
+Baterai : 3900mAh
+
+VIVO 
+1. Vivo Y20
+Price : 4199000
+Ukuran Layar : 6.51"
+RAM : 6 GB
+Penyimpanan :  64 GB
+Chip : Snapdragon 460
+Main Camera : 13MP
+Baterai : 5000mAh
+
+
+2. Vivo X60 Pro
+Price : 9999000
+Ukuran Layar : 6.56"
+RAM : 12 GB
+Penyimpanan :  256 GB
+Chip : Snapdragon 870 5G
+Main Camera : 48MP
+Baterai : 4200mAh
+
+3. Vivo V25
+Price : 5499000
+Ukuran Layar : 6.44"
+RAM : 8/12 GB
+Penyimpanan : 128/256 GB
+Chip : Dimensity 900
+Main Camera : 64MP
+Baterai : 4500mAh
+
+
+4. Vivo V21
+Price : 3099000
+Ukuran Layar : 6.44"
+RAM : 8 GB
+Penyimpanan : 128/256 GB
+Chip : Dimensity 800U
+Main Camera : 64MP
+Baterai : 4000mAh
+
+
+5. Vivo V27
+Price : 5899000
+Ukuran Layar : 6.78"
+RAM : 8/12 GB
+Penyimpanan : 128/256 GB
+Chip : Dimensity 7200
+Main Camera : 50MP
+Baterai : 4600mAh
+
+iPhone :
+1. iPhone 13 Pro Max
+Price : 19499000
+Ukuran Layar : 6.7"
+RAM : 6 GB
+Penyimpanan : 128 GB
+Chip : Apple A15 Bionic
+Main Camera : 12MP
+Baterai : 4352mAh
+
+2. iPhone 14 Pro Max
+Price : 20499000
+Ukuran Layar : 6.7"
+RAM : 6 GB
+Penyimpanan : 128 GB
+Chip : Apple A16 Bionic
+Main Camera : 48MP
+Baterai : 4323mAh
+
+3. iPhone 14
+Price : 13999000
+Ukuran Layar : 6.1"
+RAM : 6 GB
+Penyimpanan : 128 GB
+Chip : Apple A15 Bionic
+Main Camera : 12MP
+Baterai : 3279mAh
+
+4. iPhone 13
+Price : 12499000
+Ukuran Layar : 6.1"
+RAM : 4 GB
+Penyimpanan : 128 GB
+Chip : Apple A15 Bionic
+Main Camera : 12MP
+Baterai : 3240mAh
+
+5. iPhone 12
+Price : 10499000
+Ukuran Layar : 6.1"
+RAM : 4 GB
+Penyimpanan : 64 GB
+Chip : Apple A14 Bionic
+Main Camera : 12MP
+Baterai : 2815mAh 
+
+OPPO
+1. Find N2 Flip
+Price : 14999000
+Ukuran Layar : 6.8"
+RAM : 8/12/1 6GB
+Penyimpanan : 256/512 GB
+Chip : Dimensity 9000+
+Main Camera : 50MP
+Baterai : 4300mAh
+
+2. Reno8 T 5G
+Price : 5999000
+Ukuran Layar : 6.7"
+RAM : 8 GB
+Penyimpanan : 128/256 GB
+Chip : Snapdragon 695 5G
+Main Camera : 108MP
+Baterai : 4800mAh
+
+3. Oppo A57
+Price : 2599000
+Ukuran Layar : 6.56"
+RAM : 6/8 GB
+Penyimpanan : 128/256 GB
+Chip : Dimensity 810
+Main Camera : 13MP 
+Baterai : 5000mAh
+
+4. Oppo A17
+Price : 1999000
+Ukuran Layar : 6.56"
+RAM : 4 GB
+Penyimpanan : 64 GB 
+Chip : Helio G35
+Main Camera : 50MP
+Baterai : 5000mAh
+
+5. Oppo Reno6
+Price : 5135000
+Ukuran Layar : 6.4" 
+RAM : 8 GB
+Penyimpanan : 128 GB 
+Chip : Snapdragon 720G
+Main Camera : 64MP
+Baterai : 4310mAh

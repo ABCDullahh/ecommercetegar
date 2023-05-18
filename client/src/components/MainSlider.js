@@ -9,7 +9,9 @@ import '../slider.css';
 //import required modules
 import {Pagination} from 'swiper';
 //components
-import CameraImg from '../img/camera.png'
+import CameraImg from '../img/banner1.png'
+import CameraImg2 from '../img/banner2.png'
+import CameraImg3 from '../img/banner3.png'
 
 const sliderData = [
   {
@@ -21,7 +23,7 @@ const sliderData = [
     btnText: 'Shop now',
   },
   {
-    img: CameraImg,
+    img: CameraImg2,
     pretitle: 'Special Offer',
     titlePart1: 'Save 20%',
     titlePart2: 'On your',
@@ -29,7 +31,7 @@ const sliderData = [
     btnText: 'Shop now',
   },
   {
-    img: CameraImg,
+    img: CameraImg3,
     pretitle: 'Special Offer',
     titlePart1: 'Save 20%',
     titlePart2: 'On your',
@@ -61,9 +63,7 @@ const MainSlider = () => {
                   {slide.titlePart2} <br />
                   {slide.titlePart3}
                 </div>
-                <button className='btn btn-accent mx-auto lg:mx-0'>
-                  Beli Sekarang
-                  </button>
+                
               </div>
               {/* img */}
               <div className='flex-1'>
