@@ -21,7 +21,7 @@ const CategoryNavMobile = ({ setCatnavMobile }) => {
                 return <Link to={`products/${category.id}`}
                 className='uppercase font-medium' 
                 key={category.id}>
-                    {category.attributes.title} Cameras
+                    {category.attributes.title} Phones
                     </Link>;
             })}
             </div>

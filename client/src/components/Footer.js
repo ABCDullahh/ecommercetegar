@@ -13,8 +13,9 @@ const Footer = () => {
         </div>
         {/* form */}
           <form className='w-full max-w-3xl mx-auto flex flex-col gap-5 my-14'>
-            <input type="text" placeholder="Alamat Email" className="input" />
-            <button className="btn btn-accent min-w-full">Bergabung</button>
+          <a href="https://wa.me/6281329929950">
+            <button className="btn btn-accent min-w-full">Hubungi Admin</button>
+          </a>
           </form>
           {/* link */}
           <div className='text-base text-white/60 flex gap-x-6 capitalize max-w-max mx-auto mb-9'>

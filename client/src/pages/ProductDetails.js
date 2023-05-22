@@ -40,7 +40,7 @@ const ProductDetails = () => {
             <div className='flex items-center gap-x-8'>
                           {/* harga dan tombol */}
             <div className='text-3xl text-accent fonts-semibold'>
-              Rp.{data[0].attributes.price}
+              Rp. {data[0].attributes.price}
             </div>
             <a href="https://wa.me/6281329929950">
             <button className='btn btn-accent'>Tanyakan Stok</button>

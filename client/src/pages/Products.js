@@ -26,7 +26,7 @@ const Products = () => {
         <main>
           {/* title */}
           <div className='py-3 text-x1 uppercase text-center lg:text-left'>
-            {title} Cameras
+            {title} Phones
             </div>
           {/* product grid */}
           <div 
