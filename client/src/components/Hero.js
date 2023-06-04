@@ -30,10 +30,12 @@ const Hero = () => {
                 </div>
                 
               </div>
+              <a href="http://localhost:3000/product/33">
               {/* img */}
               <img className='absolute z-20 -bottom-2 -right-4' 
               src={PromoImg1} 
               alt=''/>
+              </a>
               </div>
             {/* promo image 2 */}
             <div className='grad flex-1 h-[250px] rounded-[8px] overflow-hidden relative p-6'>
@@ -44,10 +46,12 @@ const Hero = () => {
                 </div>
                 
               </div>
+              <a href="http://localhost:3000/product/30">
               {/* img */}
               <img className='absolute z-20 -bottom-2 -right-4' 
               src={PromoImg2} 
               alt=''/>
+              </a>
               </div>
           </div>
         </div>
